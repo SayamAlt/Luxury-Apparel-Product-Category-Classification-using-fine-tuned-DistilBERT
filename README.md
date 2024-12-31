@@ -23,7 +23,7 @@ This dataset can be used for various applications, including:
 - Enhancing product recommendation systems.
 
 ## License
-The dataset is provided under the [Insert License Type] license. Please review the license terms before using the dataset.
+The dataset is provided under the MIT license. Please review the license terms before using the dataset.
 
 ## Contributing
 Contributions to this dataset or related models are welcome! If you find issues, have suggestions, or improvements, feel free to open an issue or submit a pull request.
